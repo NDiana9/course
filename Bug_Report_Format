@@ -1,0 +1,21 @@
+1. ID 
+2. Summary/Title
+3. Description
+4. Expected Result
+5. Actual Result
+6. Steps to reproduce
+7. Severity
+ - S1 Critical
+ - S2 Major
+ - S3 Minor
+ - S4 Low
+8. Priority
+ - High
+ - Medium
+ - Low
+9. Version and Build
+10. Reported by
+11. Time and Date
+12. Assignee
+13. Environment (device, OS, reproducibility rate)
+14. Attachments
