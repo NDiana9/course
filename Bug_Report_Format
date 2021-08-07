@@ -5,10 +5,11 @@
 5. Actual Result
 6. Steps to reproduce
 7. Severity
- - S1 Critical
- - S2 Major
- - S3 Minor
- - S4 Low
+ - S1 Blocker
+ - S2 Critical
+ - S3 Major
+ - S4 Minor
+ - S5 Low
 8. Priority
  - High
  - Medium
